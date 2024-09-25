@@ -1,6 +1,6 @@
 const { MongoClient } = require('mongodb');
 
-const url = 'mongodb+srv://abhishek50503:Aksingh%4050503@testingmongocloud.fiddxnz.mongodb.net';
+const url = "aasfasfs"
 const client = new MongoClient(url);
 
 // Database Name
